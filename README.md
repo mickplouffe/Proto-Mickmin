@@ -45,6 +45,6 @@ This project is released under the MIT License, making it available for educatio
 
 
 ## Skills used
-Tags: #CS, #Unity, #Game
+Tags: @tag:CS, @tag:Unity, @tag:Game
 
 
