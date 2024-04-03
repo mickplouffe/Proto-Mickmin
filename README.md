@@ -12,6 +12,7 @@ Mickmin is an educational challenges, developed using Unity and C#.
 - Direct the Mickmin
 - Throw one by one
 - Mickmins will search for something to do when thrown
+- Once the Mickmins brings back food, new Mickmins are generated.
 TBD
 
 ## Getting Started
