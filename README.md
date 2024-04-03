@@ -9,7 +9,9 @@ Welcome to the Mickmin repository! This project is a Unity C# game application d
 Mickmin is an educational challenges, developed using Unity and C#.
 
 ## Features
-
+- Direct the Mickmin
+- Throw one by one
+- Mickmins will search for something to do when thrown
 TBD
 
 ## Getting Started
