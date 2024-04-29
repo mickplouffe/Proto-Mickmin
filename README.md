@@ -27,7 +27,7 @@ TBD
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/yourusername/Mickmin.git
+   git clone https://github.com/mickplouffe/Proto-Mickmin.git
    ```
 
 2. **Open the Project in Unity**
