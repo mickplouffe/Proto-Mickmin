@@ -36,6 +36,9 @@ Launch Unity Hub, and add the cloned project by navigating to the location where
 
 3. **Run the Game**
 
+
+
+
 Inside Unity, press the play button to start the game in the editor. Alternatively, you can build and run the game on your preferred platform by accessing `File > Build Settings` in Unity.
 
 ## Contributing
@@ -48,6 +51,6 @@ This project is released under the MIT License, making it available for educatio
 
 
 ## Skills used
-Tags: @tag:CS, @tag:Unity, @tag:Game
+Tags: @tag:CS, @tag:Unity, @tag:Game, @tag:Remake, @tag:Ai
 
 
